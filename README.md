@@ -8,7 +8,7 @@ simple app with color background and clickable button to change color of text.
 ### App Walk-though
 
 
-<img src="![helloworld](https://user-images.githubusercontent.com/77468761/105565220-c9f4bd00-5cf3-11eb-941f-815b230cc6a9.gif)" width=200><br>
+<img src="![helloworld](https://user-images.githubusercontent.com/77468761/105565220-c9f4bd00-5cf3-11eb-941f-815b230cc6a9.gif)"width=200><br>
 
 
 
