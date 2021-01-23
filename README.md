@@ -3,14 +3,14 @@ my first repository
 ## Hello Wolrd
 
 ### App Description
-`TODO://` simple app with color background and clickable button to change color of text. 
+simple app with color background and clickable button to change color of text. 
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
+
 
 <img src="![helloworld](https://user-images.githubusercontent.com/77468761/105565220-c9f4bd00-5cf3-11eb-941f-815b230cc6a9.gif)" width=200><br>
 
-`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
+
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
